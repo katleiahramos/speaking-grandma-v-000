@@ -17,7 +17,9 @@ def speak_to_grandma method(statement)
     return I LOVE YOU TOO PUMPKIN!
   elsif statement == statement.upcase
     return NO, NOT SINCE 1938!
-  return
+  else 
+    return HUH?! SPEAK UP, SONNY!
+  end 
 
 
 
